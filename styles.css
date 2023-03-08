@@ -1,0 +1,70 @@
+header {
+  background-image: url("img/mountain.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 90vh;
+}
+nav {
+  font-size: 20px;
+}
+
+nav a,
+.navbar-brand {
+  color: #ffffff !important;
+}
+h1,
+h2,
+p {
+  text-align: center;
+}
+.foto {
+  height: 300px !important;
+}
+nav a:hover,
+.name,
+h2,
+h3,
+button {
+  color: rgb(249, 8, 112) !important;
+}
+.navbar-brand {
+  font-size: 40px;
+}
+
+button {
+  border-color: rgb(249, 8, 112) !important;
+}
+
+button:hover {
+  background-color: rgb(249, 8, 112) !important;
+  color: #ffffff !important;
+}
+.aboutMeP {
+  text-align: start;
+  font-family: "Alumni Sans Pinstripe", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-size: large;
+  font-weight: bold;
+}
+.aboutmeB {
+  border-radius: 30px !important;
+}
+.card-color {
+  background-color: rgb(249, 8, 112) !important;
+}
+.card {
+  border: none !important;
+}
+
+.social {
+  height: 50px;
+  width: 50px;
+}
+.invalido {
+  color: red;
+  font-size: 13px;
+  text-align: left;
+}
+.none {
+  display: none;
+}
